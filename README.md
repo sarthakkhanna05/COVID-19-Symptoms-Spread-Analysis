@@ -26,7 +26,7 @@
 1) Clone the repo using the following command in the command line "git clone https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13.git"
 2) The project is divided into two parts:
     1. Part 1: Covid prediction using symptom analysis, Dataset name "Covid Dataset.csv'
-    2. Part-2: global and India state-wise time series forcasting, 3 Datasets from URL and one from folder named "covid_19_india.csv"
+    2. Part-2: Global and India state-wise time series forecasting, 3 Datasets from URL and one from folder named "covid_19_india.csv"
     Navigate to the folder you want to run.
 3) Run the "Part_1.ipynb" or "Part_2.ipynb" complete file in jupyter notebook.  
 4) Please make sure that all the libraries are installed and the dataset files is in the same foolder as the ipynb files.
@@ -35,11 +35,11 @@
 https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Project%20Report/Project%20Report%20-%20Team%2013.pdf
 
 # Project Notebook 
-Part 1:https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Part_1.ipynb
+Part 1:https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Part_1.ipynb <br>
 Part 2: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part-2/Part_2.ipynb
 
 # Dataset: (local)
-Part 1: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Covid%20Dataset.csv
+Part 1: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Covid%20Dataset.csv <br>
 Part 2: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part-2/covid_19_india.csv
 
 # Dataset: (Kaggle link)
