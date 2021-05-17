@@ -35,9 +35,16 @@
 
 
 # Project Notebook (CMPE-255-Tearm-Project.ipynb)
-
+Part 1:https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Part_1.ipynb
+Part 2: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part-2/Part_2.ipynb
 
 # Dataset (HomeC.csv)
-
+Part 1: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Covid%20Dataset.csv
+Part 2: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part-2/covid_19_india.csv
 
 # Dataset (Kaggle link)
+Part 2:
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/05-10-2021.csv
