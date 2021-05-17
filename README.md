@@ -23,7 +23,7 @@
 15) IPython
 
 # Instructions to Run this project
-1) Clone the repo using the following command in the command line "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-13.git"
+1) Clone the repo using the following command in the command line "git clone https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13.git"
 2) The project is divided into two parts:
     1. Part 1: Covid prediction using symptom analysis, Dataset name "Covid Dataset.csv'
     2. Part-2: global and India state-wise time series forcasting, 3 Datasets from URL and one from folder named "covid_19_india.csv"
