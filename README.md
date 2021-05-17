@@ -31,18 +31,15 @@
 3) Run the "Part_1.ipynb" or "Part_2.ipynb" complete file in jupyter notebook.  
 4) Please make sure that all the libraries are installed and the dataset files is in the same foolder as the ipynb files.
 
-# Project Report (CMPE 255 Term Project Report.pdf)
-
-
-# Project Notebook (CMPE-255-Tearm-Project.ipynb)
+# Project Notebook 
 Part 1:https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Part_1.ipynb
 Part 2: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part-2/Part_2.ipynb
 
-# Dataset (HomeC.csv)
+# Dataset: (local)
 Part 1: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Covid%20Dataset.csv
 Part 2: https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part-2/covid_19_india.csv
 
-# Dataset (Kaggle link)
+# Dataset: (Kaggle link)
 Part 2:
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
