@@ -32,7 +32,7 @@
 4) Please make sure that all the libraries are installed and the dataset files is in the same foolder as the ipynb files.
 
 # Project Report:
-
+https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Project%20Report/Project%20Report%20-%20Team%2013.pdf
 
 # Project Notebook 
 Part 1:https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Part_1.ipynb
