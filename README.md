@@ -25,10 +25,10 @@
 # Instructions to Run this project
 1) Clone the repo using the following command in the command line "git clone https://github.com/sikrewalrohit/CMPE-255-Term-Project-Team-13.git"
 2) The project is divided into two parts:
-    1. Covid prediction using symptom analysis: Dataset name "
-    2. global and India state-wise time series forcasting. 3 Datasets from URL and one from folder named "covid_19_india.csv"
+    1. Part_1: Covid prediction using symptom analysis, Dataset name "Covid Dataset.csv'
+    2. Part_2: global and India state-wise time series forcasting, 3 Datasets from URL and one from folder named "covid_19_india.csv"
     Navigate to the folder you want to run.
-3) Run the "part 1.ipynb" or "part 2.ipynb" complete file in jupyter notebook.  
+3) Run the "Part_1.ipynb" or "Part_2.ipynb" complete file in jupyter notebook.  
 4) Please make sure that all the libraries are installed and the dataset files is in the same foolder as the ipynb files.
 
 # Project Report (CMPE 255 Term Project Report.pdf)
