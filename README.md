@@ -2,8 +2,8 @@
 
 # Team Members Name
 1) Sarthak D Khanna - 015252211
-2) Ishan Kanungo - 
-3) Abhijeet Padwal - 
+2) Ishan Kanungo - 015260726
+3) Abhijeet Padwal - 015219958
 
 # Requirnments - Make sure all these libraries are installed in your system
 1) numpy
@@ -30,6 +30,9 @@
     Navigate to the folder you want to run.
 3) Run the "Part_1.ipynb" or "Part_2.ipynb" complete file in jupyter notebook.  
 4) Please make sure that all the libraries are installed and the dataset files is in the same foolder as the ipynb files.
+
+# Project Report:
+
 
 # Project Notebook 
 Part 1:https://github.com/sarthakkhanna05/CMPE-255-Term-Project-Team-13/blob/main/Part%201/Part_1.ipynb
