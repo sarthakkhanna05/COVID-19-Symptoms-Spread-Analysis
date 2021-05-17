@@ -1,5 +1,4 @@
 # CMPE-255-Term-Project-Team-13
-# CMPE-255 Term Project - Team 4 
 
 # Team Members Name
 1) Sarthak D Khanna - 015252211
